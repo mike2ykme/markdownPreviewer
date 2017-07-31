@@ -1,0 +1,18 @@
+.row > div {
+  margin-top:10px;
+  border: #cdcdcd medium solid;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  height: 100%;
+}
+textarea{
+  resize: vertical;
+  height: 100%;
+}
+
+div{
+  height: 100%;
+}
